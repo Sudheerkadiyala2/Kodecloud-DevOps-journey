@@ -55,7 +55,7 @@ Docker
 Kubernetes             
 CI/CD Pipelines         
 Terraform               
-Cloud (AWS/GCP)        
+Cloud (AWS)        
 Monitoring & Logging   
 ```
 
