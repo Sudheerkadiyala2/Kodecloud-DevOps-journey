@@ -1,6 +1,6 @@
 # Day 1 — Linux User Setup with Non-Interactive Shell 🐧
 
-> **100 Days of DevOps** | Challenge #1 | April 26, 2026
+> **100 days of DevOps** | Challenge #1 
 
 ---
 
