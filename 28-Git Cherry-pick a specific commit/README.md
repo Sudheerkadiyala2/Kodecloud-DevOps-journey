@@ -1,4 +1,4 @@
-# Day 27: Git Cherry-Pick a Specific Commit
+# Day 28: Git Cherry-Pick a Specific Commit
 
 ## Challenge
 
