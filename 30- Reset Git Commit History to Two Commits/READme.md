@@ -1,4 +1,4 @@
-# Day 29: Reset Git Commit History to Two Commits
+# Day 30: Reset Git Commit History to Two Commits
 
 ## Challenge
 
