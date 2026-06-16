@@ -1,4 +1,4 @@
-# Day 38: Fix Dockerfile Build Failure and Create Custom Apache Image
+# Day 41: Fix Dockerfile Build Failure and Create Custom Apache Image
 
 **Date:** 2026-06-16  
 **Platform:** KodeKloud DevOps 100 Days Challenge  
