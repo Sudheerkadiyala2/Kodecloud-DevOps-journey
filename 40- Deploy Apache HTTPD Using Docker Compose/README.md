@@ -1,4 +1,4 @@
-# Day 40: Deploy Apache HTTPD Using Docker Compose
+# Day 41: Deploy Apache HTTPD Using Docker Compose
 
 **Date:** 2026-06-16  
 **Platform:** KodeKloud DevOps 100 Days Challenge  
