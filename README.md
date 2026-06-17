@@ -15,8 +15,7 @@ If you're a hirer reading this — this isn't a polished portfolio piece where e
 ---
 
 
-**Current Streak:** 9 / 100 challenges complete  
-**XP Earned:** 300+  
+**Current Streak:** 43 / 100 challenges complete  
 **Platform:** [KodeKloud](https://kodekloud.com)
 
 ---
