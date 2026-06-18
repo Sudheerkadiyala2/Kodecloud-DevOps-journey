@@ -1,4 +1,4 @@
-# Day 42: Create a Kubernetes Pod with Custom Labels and Container Name
+# Day 44: Create a Kubernetes Pod with Custom Labels and Container Name
 
 **Date:** 2026-06-18  
 **Platform:** KodeKloud DevOps 100 Days Challenge  
