@@ -1,4 +1,4 @@
-# Day 48: Share Data Between Containers Using an emptyDir Volume
+# Task 48: Share Data Between Containers Using an emptyDir Volume
 
 **Date:** 2026-06-20  
 **Platform:** KodeKloud DevOps 100 Days Challenge  
