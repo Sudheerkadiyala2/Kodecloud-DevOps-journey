@@ -1,4 +1,4 @@
-# Day 51: Create a Kubernetes Deployment with a NodePort Service
+# Task 51: Create a Kubernetes Deployment with a NodePort Service
 
 **Date:** 2026-06-20  
 **Platform:** KodeKloud DevOps 100 Days Challenge  
