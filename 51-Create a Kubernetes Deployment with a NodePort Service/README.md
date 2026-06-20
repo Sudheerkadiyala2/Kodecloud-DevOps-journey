@@ -32,42 +32,47 @@ vi deployment.yaml
 Add the following configuration:
 
 ```yaml
-apiVersion: apps/v1
-kind: Deployment
+apiVersion: apps/v1              # Kubernetes Deployment API version
+kind: Deployment                 # We are creating a Deployment resource
+
 metadata:
-  name: nginx-deployment
+  name: nginx-deployment         # Name of the Deployment
+
 spec:
-  replicas: 3
+  replicas: 3                    # Create and maintain 3 Pod replicas
+
   selector:
     matchLabels:
-      app: nginx
+      app: nginx                 # Deployment manages Pods having label app=nginx
 
-  template:
+  template:                      # Blueprint used to create Pods
+
     metadata:
       labels:
-        app: nginx
+        app: nginx               # Label assigned to each Pod
 
     spec:
       containers:
-      - name: nginx-container
-        image: nginx:latest
+      - name: nginx-container    # Name of the container inside the Pod
+        image: nginx:latest      # Use the latest NGINX image
 
 ---
-apiVersion: v1
-kind: Service
+apiVersion: v1                   # Kubernetes Service API version
+kind: Service                    # We are creating a Service resource
+
 metadata:
-  name: nginx-service
+  name: nginx-service            # Name of the Service
 
 spec:
-  type: NodePort
+  type: NodePort                 # Exposes application on a port of every cluster node
 
   selector:
-    app: nginx
+    app: nginx                   # Sends traffic to Pods having label app=nginx
 
   ports:
-  - port: 80
-    targetPort: 80
-    nodePort: 30011
+  - port: 80                     # Service port inside the cluster
+    targetPort: 80               # Container port receiving traffic
+    nodePort: 30011              # External port exposed on Kubernetes nodes
 ```
 
 ### Step 2: Apply the Manifest
