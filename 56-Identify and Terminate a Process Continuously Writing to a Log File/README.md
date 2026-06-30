@@ -1,4 +1,4 @@
-# Day 56: Identify and Terminate a Process Continuously Writing to a Log File
+# Task 56: Identify and Terminate a Process Continuously Writing to a Log File
  
 **Platform:** KodeKloud DevOps 100 Days Challenge  
 **Category:** Linux Process Management | Troubleshooting
