@@ -92,17 +92,6 @@ Jenkins' flexibility comes from its plugin ecosystem. Installing the right plugi
 
 ---
 
-## Screenshots
-
-> 📸 Captured screenshots of:
->
-> - Jenkins Dashboard
-> - Plugin Manager
-> - Git Plugin installation
-> - GitLab Plugin installation
-> - Successful installation after restart
-
----
 
 Part of my **#100DaysOfDevOps** journey—building practical DevOps skills through hands-on challenges every day.
 
