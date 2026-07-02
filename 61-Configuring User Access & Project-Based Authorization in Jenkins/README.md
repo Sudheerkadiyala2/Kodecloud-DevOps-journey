@@ -98,19 +98,6 @@ Security is a fundamental part of DevOps. Implementing granular access controls 
 
 ---
 
-## Screenshots
-
-📸 Captured screenshots of:
-
-- Jenkins login page
-- User creation (`kirsty`)
-- Matrix Authorization Strategy configuration
-- Overall permission assignments
-- Job-level permission configuration
-- Final successful configuration
-
----
-
 Part of my **#100DaysOfDevOps** journey—building practical DevOps skills through hands-on labs and real-world scenarios.
 
 **#100DaysOfDevOps #DevOps #Jenkins #JenkinsSecurity #CICD #AccessControl #Linux #KodeKloud #Automation #CloudComputing**
